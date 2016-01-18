@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\fogofwar.png</Source>
+      <Name>Textures\fogofwar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\fogofwar.xnb</Output>
+      <Time>2011-06-13T16:41:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player.png</Source>
+      <Name>Textures\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\Player.xnb</Output>
+      <Time>2011-06-13T16:43:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TileSets\part6_tileset.png</Source>
+      <Name>Textures\TileSets\part6_tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\TileSets\part6_tileset.xnb</Output>
+      <Time>2011-06-13T16:55:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FireBall.png</Source>
+      <Name>Textures\FireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\FireBall.xnb</Output>
+      <Time>2011-06-13T22:24:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Title1.jpg</Source>
+      <Name>Textures\Title1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\Title1.xnb</Output>
+      <Time>2011-06-20T23:19:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player2.png</Source>
+      <Name>Textures\Player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\Player2.xnb</Output>
+      <Time>2011-06-19T22:51:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HealthBar.png</Source>
+      <Name>Textures\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Textures\HealthBar.xnb</Output>
+      <Time>2011-06-19T23:56:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music\BattleTheme.mp3</Source>
+      <Name>Sound\Music\BattleTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Sound\Music\BattleTheme.xnb</Output>
+      <Extra>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Sound\Music\BattleTheme.wma</Extra>
+      <Time>2011-06-13T23:14:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\SoundEffect\Boom.wav</Source>
+      <Name>Sound\SoundEffect\Boom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Sound\SoundEffect\Boom.xnb</Output>
+      <Time>2011-06-20T21:55:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\SoundEffect\Cheer.wav</Source>
+      <Name>Sound\SoundEffect\Cheer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Sound\SoundEffect\Cheer.xnb</Output>
+      <Time>2011-06-21T10:38:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Font.spritefont</Source>
+      <Name>Font\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Font\Font.xnb</Output>
+      <Time>2011-06-20T23:49:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Font2.spritefont</Source>
+      <Name>Font\Font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Font\Font2.xnb</Output>
+      <Time>2011-06-21T00:14:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Font3.spritefont</Source>
+      <Name>Font\Font3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\Font\Font3.xnb</Output>
+      <Time>2011-06-21T14:30:38-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Eugene Zhang\Desktop\FireBall_Royale\Tile_Engine_v2\Tile_Engine_v2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-17T16:41:59.3306829-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
